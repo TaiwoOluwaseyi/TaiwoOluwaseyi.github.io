@@ -6,18 +6,10 @@ layout: default
 
 # Bio
 
-Motivated and detail-oriented cybersecurity analyst with a strong understanding of current threat landscapes and common 
-organizational vulnerabilities. Proactively stays updated on emerging attack trends, security misconfigurations, and 
-adversary tactics. Committed to contribute meaningfully to a cybersecurity team by applying analytical skills, threat 
-awareness, and a commitment to improving security posture.
+Motivated cybersecurity analyst with a strong understanding of threat landscapes, organizational vulnerabilities, and governance, risk, and compliance (GRC) principles. Proactively stays updated on emerging attack trends, security misconfigurations, and adversary tactics. Experienced in supporting compliance efforts with security frameworks and policies, and committed to contributing meaningfully to a cybersecurity team through analytical skills, threat awareness, and a focus on strengthening overall security posture.
 
 ---
 
-# Education
-
-**SANS Technology Institute,** Cyber Immersion Academy (May 2025)
-
-**Academy of Art University,** Bachelor of Fine Arts, 3D Character Animation (June 2019)
 
 # Certifications
 
@@ -120,3 +112,8 @@ Built and configured a forensic workstation to simulate attacks, analyze memory 
 - [Thoughts on Zero-Click Exploits](./posts/zero-click-exploits.md).
 - [Cybersecurity Lessons From Jurassic Park](./posts/jurassic-park-cybersecurity.md).
 - [Network Attacks & Analogies](./posts/network-attacks-analogies.md
+# Education
+
+**SANS Technology Institute,** Cyber Immersion Academy (May 2025)
+
+**Academy of Art University,** Bachelor of Fine Arts, 3D Character Animation (June 2019)
