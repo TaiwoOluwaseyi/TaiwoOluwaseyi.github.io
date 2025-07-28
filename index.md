@@ -6,7 +6,7 @@ layout: default
 
 # Bio
 
-Motivated cybersecurity analyst with a strong understanding of threat landscapes, organizational vulnerabilities, and governance, risk, and compliance (GRC) principles. Proactively stays updated on emerging attack trends, security misconfigurations, and adversary tactics. Experienced in supporting compliance efforts with security frameworks and policies, and committed to contributing meaningfully to a cybersecurity team through analytical skills, threat awareness, and a focus on strengthening overall security posture.
+Motivated cybersecurity analyst with a strong understanding of threat landscapes and common organisational vulnerabilities. Proactively stays updated on emerging attack trends, security misconfigurations, and adversary tactics. Experienced in supporting compliance efforts with security frameworks and policies, and committed to contributing meaningfully to a cybersecurity team through analytical skills, threat awareness, and a focus on strengthening overall security posture.
 
 ---
 
