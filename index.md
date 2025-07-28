@@ -6,7 +6,10 @@ layout: default
 
 # Bio
 
-Highly driven cybersecurity enthusiast with an intense curiosity, a passion for problem-solving, and a commitment to lifelong learning. Earned a SANS Cyber Academy scholarship after two years of dedicated self-study. Known for integrity, adaptability, and approaching challenges with insight, patience, and a growth mindset while continuously sharpening skills through home labs, courses, training platforms, and involvement in the cyber community.
+Motivated and detail-oriented cybersecurity analyst with a strong understanding of current threat landscapes and common 
+organizational vulnerabilities. Proactively stays updated on emerging attack trends, security misconfigurations, and 
+adversary tactics. Committed to contribute meaningfully to a cybersecurity team by applying analytical skills, threat 
+awareness, and a commitment to improving security posture.
 
 ---
 
