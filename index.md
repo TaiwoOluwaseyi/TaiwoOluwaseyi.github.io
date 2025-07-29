@@ -109,9 +109,9 @@ Built and configured a forensic workstation to simulate attacks, analyse memory 
 # Posts
 - [Thoughts on Zero-Click Exploits](./posts/zero-click-exploits.md).
 - [Cybersecurity Lessons From Jurassic Park](./posts/jurassic-park-cybersecurity.md).
-- [Network Attacks & Analogies](./posts/network-attacks-analogies.md)
+- [Network Attacks & Analogies](./posts/network-attacks-analogies.md).
 
-# Education:
+## Education:
 
 **SANS Technology Institute,** Cyber Immersion Academy (May 2025)
 
