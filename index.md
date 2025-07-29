@@ -84,7 +84,7 @@ Tenacity, Growth Mindset, Adaptability, Diplomacy, Empathy, Critical Thinking, A
 
 # Home Labs
 
-## [Cybersecurity Home Lab](./projects/cybersecurity-home-lab.md).
+## [RiskIT](riskit.md).
 Designed and implemented a comprehensive cybersecurity lab, featuring a network diagram, multi-interface pfSense firewall, Active Directory environment, Security Onion for traffic analysis and IDS, and a pentesting VM for testing and exploitation.
   
 
