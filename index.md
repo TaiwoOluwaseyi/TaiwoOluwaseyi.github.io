@@ -113,6 +113,6 @@ Built and configured a forensic workstation to simulate attacks, analyse memory 
 
 ## Education:
 
-**SANS Technology Institute,** Cyber Immersion Academy (May 2025)
+**ALTSCHOOl Aftica,** Diploma in Cybersecurity (Sept 2025)
 
-**Academy of Art University,** Bachelor of Fine Arts, 3D Character Animation (June 2019)
+**University of Lagos, Nigeria,** Bachelor of Science, Chemistry (Sept 2023)
