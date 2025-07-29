@@ -84,14 +84,9 @@ Tenacity, Growth Mindset, Courage, Humility, Empathy, Critical Thinking, Attenti
 
 # Projects
 
-<<<<<<< HEAD
 ## [RiskIT](riskit.md).
 Designed and implemented a comprehensive cybersecurity lab, featuring a network diagram, multi-interface pfSense firewall, Active Directory environment, Security Onion for traffic analysis and IDS, and a pentesting VM for testing and exploitation.
   
-=======
-## [Cybersecurity Home Lab](./projects/cybersecurity-home-lab.md).
-Built a lightweight Python-based GRC tool designed to automate vendor risk scoring using questionnaire-driven inputs. It evaluates likelihood and impact to generate dynamic risk ratings (Low, Medium, High) and integrates ISO 27001 principles.
->>>>>>> 28f66444e787cbe9700dff136f2233f4c1a4bfe2
 
 ## [Windows Forensics Home Lab](./projects/windows-forensics-home-lab.md).
 Built and configured a forensic workstation to simulate attacks, analyse memory dumps and disk images with tools like KAPE and FTK Imager, and investigate registry, file systems, and memory forensics using Zimmerman Tools, RegRipper, and Volatility3.
