@@ -89,7 +89,6 @@ Designed and implemented a comprehensive cybersecurity lab, featuring a network 
 
 ## [Cybersecurity Home Lab](./projects/cybersecurity-home-lab.md).
 Built a lightweight Python-based GRC tool designed to automate vendor risk scoring using questionnaire-driven inputs. It evaluates likelihood and impact to generate dynamic risk ratings (Low, Medium, High) and integrates ISO 27001 principles.
->>>>>>> 409722d5fb244c28225c49589ddaaddff9be0382
 
 ## [Windows Forensics Home Lab](./projects/windows-forensics-home-lab.md).
 Built and configured a forensic workstation to simulate attacks, analyse memory dumps and disk images with tools like KAPE and FTK Imager, and investigate registry, file systems, and memory forensics using Zimmerman Tools, RegRipper, and Volatility3.
