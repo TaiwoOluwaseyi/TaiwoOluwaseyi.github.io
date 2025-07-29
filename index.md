@@ -78,18 +78,17 @@ Motivated cybersecurity analyst with a strong understanding of threat landscapes
 
 
 ### 🌟 **Soft Skills:**
-Tenacity, Growth Mindset, Adaptability, Diplomacy, Empathy, Critical Thinking, Attention to Detail, Patience, Communication.
+Tenacity, Growth Mindset, Courage, Humility, Empathy, Critical Thinking, Attention to Detail, Patience, Communication.
 
 ---
 
-# Home Labs
+# Projects
 
 ## [Cybersecurity Home Lab](./projects/cybersecurity-home-lab.md).
-Designed and implemented a comprehensive cybersecurity lab, featuring a network diagram, multi-interface pfSense firewall, Active Directory environment, Security Onion for traffic analysis and IDS, and a pentesting VM for testing and exploitation.
-  
+Built a lightweight Python-based GRC tool designed to automate vendor risk scoring using questionnaire-driven inputs. It evaluates likelihood and impact to generate dynamic risk ratings (Low, Medium, High) and integrates ISO 27001 principles.
 
 ## [Windows Forensics Home Lab](./projects/windows-forensics-home-lab.md).
-Built and configured a forensic workstation to simulate attacks, analyze memory dumps and disk images with tools like KAPE and FTK Imager, and investigate registry, file systems, and memory forensics using Zimmerman Tools, RegRipper, and Volatility3.
+Built and configured a forensic workstation to simulate attacks, analyse memory dumps and disk images with tools like KAPE and FTK Imager, and investigate registry, file systems, and memory forensics using Zimmerman Tools, RegRipper, and Volatility3.
 
 ---
 
