@@ -13,7 +13,7 @@ Motivated cybersecurity analyst with a strong understanding of threat landscapes
 
 # Certifications
 
-<div style="display: flex; gap: 100px;">
+<div style="display: flex; gap: 90px;">
     
         <img src="/myfolder/sec+image.webp" alt="Comptia Security+" width="100">
     
