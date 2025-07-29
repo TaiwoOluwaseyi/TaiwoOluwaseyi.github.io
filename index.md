@@ -113,6 +113,6 @@ Built and configured a forensic workstation to simulate attacks, analyse memory 
 
 ## Education:
 
-**ALTSCHOOl Aftica,** Diploma in Cybersecurity (Sept 2025)
+**ALTSCHOOl AfRICA,** Diploma in Cybersecurity (Sept 2025)
 
 **University of Lagos, Nigeria,** Bachelor of Science, Chemistry (Sept 2023)
