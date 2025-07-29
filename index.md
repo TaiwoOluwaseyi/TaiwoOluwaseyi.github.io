@@ -63,12 +63,8 @@ Motivated cybersecurity analyst with a strong understanding of threat landscapes
     <td style="padding: 5px;">ISO 27001, NIST, SOC2</td>
   </tr>
   <tr>
-    <td style="padding: 5px;">🗝️ Passwords/Cryptography</td>
-    <td style="padding: 5px;">GPG, John, Hashcat, Hydra</td>
-  </tr>
-  <tr>
     <td style="padding: 5px;">🔒 Endpoint Security</td>
-    <td style="padding: 5px;">SentinelOne, Permissions</td>
+    <td style="padding: 5px;">SentinelOne</td>
   </tr>
   <tr>
     <td style="padding: 5px;">📜 Scripting Languages</td>
