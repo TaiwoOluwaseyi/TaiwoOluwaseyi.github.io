@@ -40,7 +40,7 @@ Motivated cybersecurity analyst with a strong understanding of threat landscapes
   </tr>
   <tr>
     <td style="padding: 5px;">📈 SIEMs & Log Analysis</td>
-    <td style="padding: 5px;">Elastic Stack (ELK), Splunk</td>
+    <td style="padding: 5px;">Rapid7, Splunk</td>
   </tr>
   <tr>
     <td style="padding: 5px;">🌐 Network Security</td>
@@ -55,12 +55,12 @@ Motivated cybersecurity analyst with a strong understanding of threat landscapes
     <td style="padding: 5px;">VirusTotal, MITRE ATT&CK</td>
   </tr>
   <tr>
-    <td style="padding: 5px;">🔬 Digital Forensics</td>
-    <td style="padding: 5px;">Autopsy, Volatility</td>
+    <td style="padding: 5px;">🔬 Documentation</td>
+    <td style="padding: 5px;">Confluence, Jira</td>
   </tr>
   <tr>
-    <td style="padding: 5px;">🧰 Pentesting</td>
-    <td style="padding: 5px;">Nmap, Metasploit</td>
+    <td style="padding: 5px;">🧰 Risk Management Framework</td>
+    <td style="padding: 5px;">ISO 27001, NIST, SOC2</td>
   </tr>
   <tr>
     <td style="padding: 5px;">🗝️ Passwords/Cryptography</td>
@@ -68,11 +68,11 @@ Motivated cybersecurity analyst with a strong understanding of threat landscapes
   </tr>
   <tr>
     <td style="padding: 5px;">🔒 Endpoint Security</td>
-    <td style="padding: 5px;">Firewalls, Permissions</td>
+    <td style="padding: 5px;">SentinelOne, Permissions</td>
   </tr>
   <tr>
     <td style="padding: 5px;">📜 Scripting Languages</td>
-    <td style="padding: 5px;">Python, PowerShell, SQL, Bash</td>
+    <td style="padding: 5px;">Python, Bash</td>
   </tr>
 </table>
 
