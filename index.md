@@ -15,9 +15,9 @@ Motivated cybersecurity analyst with a strong understanding of threat landscapes
 
 
 <div class="certificates">
-  <img src="/myfolder/sec+image.webp" alt="Comptia Security+" style="max-width: 30px"> 
-  <img src="/myfolder/Sc900Image.webp" alt="GIAC Foundational Cybersecurity Technologies (GFACT)" style="max-width: 30px">
-  <img src="/myfolder/ISC2logo.webp" alt="ISC2 Certified in Cybersecurity (CC)" style="max-width: 30px">
+  <img src="/myfolder/sec+image.webp" alt="Comptia Security+" style="max-width: 50px"> 
+  <img src="/myfolder/Sc900Image.webp" alt="GIAC Foundational Cybersecurity Technologies (GFACT)" style="max-width: 50px">
+  <img src="/myfolder/ISC2logo.webp" alt="ISC2 Certified in Cybersecurity (CC)" style="max-width: 50px">
 </div>
 
 
