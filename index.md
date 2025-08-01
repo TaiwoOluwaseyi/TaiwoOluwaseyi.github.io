@@ -87,11 +87,6 @@ Built a lightweight Python-based GRC tool designed to automate vendor risk scori
 
 ---
 
-# Writeups
-## OverTheWire:
-- [Bandit Writeup](./writeups/overthewire/bandit.md).
-- [Leviathan Writeup](./writeups/overthewire/leviathan.md).
-
 ## TryHackMe:
 - [Boogeyman 1](./writeups/tryhackme/boogeyman1.md).     Follow attacker's TTPs via email, endpoint, and network analysis.
 - [Tardigrade](./writeups/tryhackme/tardigrade.md).    Find all backdoors on the machine and remediate them.
@@ -101,11 +96,6 @@ Built a lightweight Python-based GRC tool designed to automate vendor risk scori
 - [Summit](./writeups/tryhackme/summit.md).     Simple room that involves investigations through each tier of the Pyramid of Pain.
 
 ---
-
-# Posts
-- [Thoughts on Zero-Click Exploits](./posts/zero-click-exploits.md).
-- [Cybersecurity Lessons From Jurassic Park](./posts/jurassic-park-cybersecurity.md).
-- [Network Attacks & Analogies](./posts/network-attacks-analogies.md).
 
 ## Education:
 
