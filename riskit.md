@@ -26,6 +26,13 @@ In today’s compliance-driven environment, evaluating the security posture of t
 <img src="/myfolder/riskdashboard.png" alt="">
 
 
+**Export Reports Summary:** This section allows users to generate and download comprehensive vendor risk reports in commonly used formats such as PDF.
+
+<img src="/myfolder/exportreport.png" alt="">
+
+
+
+
 
 
 
