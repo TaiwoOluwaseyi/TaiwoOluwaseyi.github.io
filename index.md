@@ -19,6 +19,8 @@ Motivated cybersecurity analyst with a strong understanding of threat landscapes
   <img src="/myfolder/Sc900Image.webp" alt="" style="max-width: 50px">
   <img src="/myfolder/ISC2logo.webp" alt="" style="max-width: 50px">
   <img src="/myfolder/google cybersecurity course image.webp" alt="" style="max-width: 50px">
+  <img src="/myfolder/isocert.png" alt="" style="max-width: 50px">
+
 
 </div>
 
