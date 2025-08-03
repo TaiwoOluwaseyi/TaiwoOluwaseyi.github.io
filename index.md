@@ -15,11 +15,11 @@ Motivated cybersecurity analyst with a strong understanding of threat landscapes
 
 
 <div class="certificates" style="display:grid; grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); gap:16px; align-items: center;">
-  <img src="/myfolder/sec+image.webp" alt="Comptia Security+" style="width: 80px; height: 100px; object-fit: contain;"> 
-  <img src="/myfolder/Sc900Image.webp" alt="SC-900" style="width: 80px; height: 100px; object-fit: contain;">
-  <img src="/myfolder/ISC2logo.webp" alt="ISC2" style="width: 80px; height: 100px; object-fit: contain;">
-  <img src="/myfolder/google cybersecurity course image.webp" alt="Google Cybersecurity" style="width: 80px; height: 100px; object-fit: contain;">
-  <img src="/myfolder/isocert.png" alt="ISO Certificate" style="width: 80px; height: 100px; object-fit: contain;">
+  <img src="/myfolder/sec+image.webp" alt="Comptia Security+" style="width: 80px; height: 100px; object-fit: cover;"> 
+  <img src="/myfolder/Sc900Image.webp" alt="SC-900" style="width: 80px; height: 100px; object-fit: cover;">
+  <img src="/myfolder/ISC2logo.webp" alt="ISC2" style="width: 80px; height: 100px; object-fit: cover;">
+  <img src="/myfolder/google cybersecurity course image.webp" alt="Google Cybersecurity" style="width: 80px; height: 100px; object-fit: cover;">
+  <img src="/myfolder/isocert.png" alt="ISO Certificate" style="width: 80px; height: 100px; object-fit: cover;">
 </div>
 
 
