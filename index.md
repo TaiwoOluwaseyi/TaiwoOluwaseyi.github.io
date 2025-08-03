@@ -14,7 +14,7 @@ Motivated cybersecurity analyst with a strong understanding of threat landscapes
 # Certifications
 
 
-<div class="certificates" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(60px, 1fr)); gap: 10px; align-items: center;">
+<div class="certificates" style="display:grid; grid-template-columns:repeat(auto-fill, minmax(60px, 1fr)); gap:10px; align-items:center;">
   <img src="/myfolder/sec+image.webp" alt="Comptia Security+" style="max-width:80px; min-height:100px;"> 
   <img src="/myfolder/Sc900Image.webp" alt="SC-900" style="max-width:80px; min-height:100px;">
   <img src="/myfolder/ISC2logo.webp" alt="ISC2" style="max-width:80px; min-height:100px;">
