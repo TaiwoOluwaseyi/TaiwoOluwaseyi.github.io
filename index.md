@@ -15,11 +15,11 @@ Motivated cybersecurity analyst with a strong understanding of threat landscapes
 
 
 <div class="certificates">
-  <img src="/myfolder/sec+image.webp" alt="Comptia Security+" style="max-width: 50px"> 
-  <img src="/myfolder/Sc900Image.webp" alt="" style="max-width: 50px">
-  <img src="/myfolder/ISC2logo.webp" alt="" style="max-width: 50px">
-  <img src="/myfolder/google cybersecurity course image.webp" alt="" style="max-width: 50px">
-  <img src="/myfolder/isocert.png" alt="" style="max-width: 50px">
+  <img src="/myfolder/sec+image.webp" alt="Comptia Security+" style="max-width: 50px min-height:100px"> 
+  <img src="/myfolder/Sc900Image.webp" alt="" style="max-width: 50px min-height:100px">
+  <img src="/myfolder/ISC2logo.webp" alt="" style="max-width: 50px min-height:100px">
+  <img src="/myfolder/google cybersecurity course image.webp" alt="" style="max-width: 50px min-height:100px">
+  <img src="/myfolder/isocert.png" alt="" style="max-width: 50px min-height:100px">
 
 
 </div>
