@@ -79,7 +79,7 @@ Tenacity, Growth Mindset, Courage, Humility, Empathy, Critical Thinking, Attenti
 # Projects
 
 ## [RiskIT](riskit.md).
-Built a lightweight Python-based GRC tool designed to automate vendor risk scoring using questionnaire-driven inputs. It evaluates likelihood and impact to generate dynamic risk ratings (Low, Medium, High) and integrates ISO 27001 principles.
+Built a lightweight Python-based GRC tool designed to automate vendor risk scoring using questionnaire-driven inputs. It evaluates likelihood and impact to generate dynamic risk ratings(Low, Medium, High) and integrates ISO 27001 principles etc.
 
 
 
